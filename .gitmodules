@@ -1,4 +1,4 @@
 [submodule "EfiGuardDxe/Zydis"]
 	path = EfiGuardDxe/Zydis
-	url = git@github.com:zyantific/zydis.git
+	url = git@github.com:nothbar/zydis.git
 	branch = master
